@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://incrypto.me">
-    <img src="https://raw.githubusercontent.com/incryptohq/.github/main/profile/assets/banner.svg" alt="iNCRYPTO — digital asset platform" width="100%">
+    <img src="https://raw.githubusercontent.com/incryptohq/.github/main/profile/assets/banner.png" alt="iNCRYPTO — digital asset platform" width="100%">
   </a>
 </p>
 
