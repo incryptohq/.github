@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://incrypto.me">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://docs.incrypto.me">Docs</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/incryptohq/.github/blob/main/SECURITY.md">Security policy</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/incryptohq/.github/blob/main/SUPPORT.md">Support</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:hello@incrypto.me">hello@incrypto.me</a>
@@ -13,7 +14,7 @@
 
 ## What we build
 
-**iNCRYPTO is a digital asset platform**: instant exchange with in-house liquidity, crypto acquiring for merchants, multi-currency wallets, P2P fiat on/off-ramps and AML screening — one product family on a single, self-hosted blockchain infrastructure, available in 17 languages.
+**iNCRYPTO is a digital asset platform**: instant exchange with in-house liquidity, crypto acquiring for merchants, multi-currency wallets, systematic investment portfolios, P2P fiat on/off-ramps and AML screening — one product family on a single, self-hosted blockchain infrastructure, available in 17 languages.
 
 | Product | What it does | Status |
 |---|---|---|
@@ -21,6 +22,7 @@
 | **iNCRYPTO Pay** | Crypto acquiring for merchants: invoicing, checkout and settlement | In development |
 | **iNCRYPTO Wallet** | Multi-currency wallets and a full-featured user dashboard | In development |
 | **iNCRYPTO Shield** | AML screening of digital assets and counterparties | In development |
+| **iNTRADE** | Systematic, risk-first investment portfolios on perpetual futures — [trade.incrypto.me](https://trade.incrypto.me) | In development |
 | **iNCRYPTO P2P** | Peer-to-peer market with fiat on/off-ramps across most countries | Planned |
 | **iNCRYPTO Mobile** | Wallet apps for iOS and Android | Planned |
 
